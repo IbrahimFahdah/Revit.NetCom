@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>External Tool</Name>
+    <Assembly>Revit.interop.dll</Assembly>
+    <ClientId>e0a2d7a5-030b-4d4e-8689-8406903ea241</ClientId>
+    <FullClassName>Revit.interop.AppSample</FullClassName>
+    <VendorId>Demo</VendorId>
+    <VendorDescription>Demo</VendorDescription>
+  </AddIn>
+</RevitAddIns>
