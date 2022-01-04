@@ -1,4 +1,4 @@
-# Out-of-process COM Server to acess Revit from .Net Core App
+# Out-of-process COM Server to access Revit from .Net Core App
 
 This is a proof of concept to demonstrates a way to create an out-of-process COM server in .NET Framework to acess Revit from .Net Core App
 
